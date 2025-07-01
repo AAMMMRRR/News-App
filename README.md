@@ -2,6 +2,17 @@
 
 A Flutter-based news application that delivers top headlines across various categories, featuring Firebase Authentication for secure user access and integration with the News API for real-time news data.
 
+## 📸 Screenshots
+
+| Sign In | Category Selection (Sports) |
+|-------------|--------------------|
+| ![Sign In](screenshots/Sign_in.png) | ![General](screenshots/Sports_Category.png) |
+
+| Article Details | Web View |
+|-----------------|----------|
+| ![Details](screenshots/details.png) | ![Web View](screenshots/webview.png) |
+
+
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
@@ -10,7 +21,7 @@ A Flutter-based news application that delivers top headlines across various cate
 - [Logic Description](#logic-description)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [Repository](#Repository)
 
 ## Features
 - **User Authentication**: Secure login and sign-up using Firebase Authentication.
