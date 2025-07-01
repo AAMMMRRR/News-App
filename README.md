@@ -5,13 +5,13 @@ A Flutter-based news application that delivers top headlines across various cate
 <h2 align="center">📸 Screenshots</h2>
 
 <p align="center">
-  <img src="screenshots/Sign_in.png" width="220"/>
+  <img src="screenshots/Sign_in.png" width="200"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/Sports_Category.png" width="220"/>
+  <img src="screenshots/Sports_Category.png" width="200"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/details.png" width="220"/>
+  <img src="screenshots/details.png" width="200"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/webview.png" width="220"/>
+  <img src="screenshots/webview.png" width="200"/>
 </p>
 
 
