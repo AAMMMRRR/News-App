@@ -161,5 +161,5 @@ Contributions are welcome! To contribute:
 4. Push your branch and create a pull request.
 5. Ensure your changes align with the app’s design and functionality.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for********** details.
+## Repository
+https://github.com/AAMMMRRR/News-App
