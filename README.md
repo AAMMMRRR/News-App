@@ -23,7 +23,7 @@ A Flutter-based news application that delivers top headlines across various cate
 
 ## Installation
 1. **Clone the Repository**:
-   - Clone the project from GitHub: `https://github.com/AAMMMRRR/YOU-CAN-DO-THIS`.
+   - Clone the project from GitHub: `https://github.com/AAMMMRRR/News-App`.
    - Navigate to the project directory.
 
 2. **Install Flutter**:
