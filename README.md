@@ -4,27 +4,30 @@ A Flutter-based news application that delivers top headlines across various cate
 
 <h2 align="center">📸 Screenshots</h2>
 
-<p align="center">
-  <span>
-    <b>Sign In</b><br/>
+<div align="center">
+
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <p><b>Sign In</b></p>
     <img src="screenshots/Sign_in.png" alt="Sign In" width="200"/>
-  </span>
-  &nbsp;&nbsp;&nbsp;
-  <span>
-    <b>Sports Category</b><br/>
+  </div>
+  
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <p><b>Category Selection (Sports)</b></p>
     <img src="screenshots/Sports_Category.png" alt="Sports Category" width="200"/>
-  </span>
-  &nbsp;&nbsp;&nbsp;
-  <span>
-    <b>Article Details</b><br/>
-    <img src="screenshots/details.png" alt="Article Details" width="200"/>
-  </span>
-  &nbsp;&nbsp;&nbsp;
-  <span>
-    <b>Web View</b><br/>
+  </div>
+  
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <p><b>Article Details</b></p>
+    <img src="screenshots/details.png" alt="Details" width="200"/>
+  </div>
+  
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <p><b>Web View</b></p>
     <img src="screenshots/webview.png" alt="Web View" width="200"/>
-  </span>
-</p>
+  </div>
+
+</div>
+
 
 
 
