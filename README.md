@@ -27,7 +27,6 @@ A Flutter-based news application that delivers top headlines across various cate
 </div>
 
 
-
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
