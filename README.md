@@ -2,34 +2,31 @@
 
 A Flutter-based news application that delivers top headlines across various categories, featuring Firebase Authentication for secure user access and integration with the News API for real-time news data.
 
-<h2>📸 Screenshots</h2>
+<h2 align="center">📸 Screenshots</h2>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="screenshots/Sign_in.png" alt="Sign In" width="250"/>
-      <br/>
-      <b>Sign In</b>
-    </td>
-    <td align="center">
-      <img src="screenshots/Sports_Category.png" alt="Sports Category" width="250"/>
-      <br/>
-      <b>Category Selection (Sports)</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="screenshots/details.png" alt="Details" width="250"/>
-      <br/>
-      <b>Article Details</b>
-    </td>
-    <td align="center">
-      <img src="screenshots/webview.png" alt="Web View" width="250"/>
-      <br/>
-      <b>Web View</b>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <p><b>Sign In</b></p>
+    <img src="screenshots/Sign_in.png" alt="Sign In" width="200"/>
+  </div>
+  
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <p><b>Category Selection (Sports)</b></p>
+    <img src="screenshots/Sports_Category.png" alt="Sports Category" width="200"/>
+  </div>
+  
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <p><b>Article Details</b></p>
+    <img src="screenshots/details.png" alt="Details" width="200"/>
+  </div>
+  
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <p><b>Web View</b></p>
+    <img src="screenshots/webview.png" alt="Web View" width="200"/>
+  </div>
+
+</div>
 
 
 
