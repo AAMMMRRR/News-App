@@ -4,7 +4,6 @@ A Flutter-based news application that delivers top headlines across various cate
 
 <h2 align="center">📸 Screenshots</h2>
 
-  &nbsp;&nbsp;&nbsp;
 <p align="center">
   <img src="screenshots/Sign_in.png" width="180"/>
   &nbsp;&nbsp;&nbsp;
