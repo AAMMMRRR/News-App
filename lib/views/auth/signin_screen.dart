@@ -14,6 +14,7 @@ class SignInScreen extends StatefulWidget {
 class _SignInScreenState extends State<SignInScreen> {
   final _emailController = TextEditingController();
   final _passwordController = TextEditingController();
+  bool _obscureText = true;
 
   bool _isLoading = false;
 
@@ -87,8 +88,21 @@ class _SignInScreenState extends State<SignInScreen> {
               const SizedBox(height: 12),
               TextField(
                 controller: _passwordController,
-                decoration: const InputDecoration(labelText: "Password"),
-                obscureText: true,
+                decoration: InputDecoration(
+                  labelText: "Password",
+                  suffixIcon: IconButton(
+                    icon: Icon(
+                      size: 20,
+                      _obscureText ? Icons.visibility_off : Icons.visibility,
+                    ),
+                    onPressed: () {
+                      setState(() {
+                        _obscureText = !_obscureText;
+                      });
+                    },
+                  ),
+                ),
+                obscureText: _obscureText,
               ),
               const SizedBox(height: 24),
               _isLoading
